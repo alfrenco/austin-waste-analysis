@@ -10,7 +10,7 @@
 * Data yang diambil dari tahun 2021 saja (data hanya sampai tanggal 9 Juli 2021).
 
 
-## Problems
+### Problems
 
 Saya adalah anggota tim Data Science di Austin Smart City dan sedang mengerjakan projek analisa sistem pembuangan dan pengelolaan sampah di kota tersebut. Sebagai anggota tim, berdasarkan data yang tersedia, saya akan mencoba analisa data tersebut menggunakan statistik deskriptif dan inferensial, serta memberikan insight kepada pemerintah kota Austin mengenai kondisi sistem pembuangan dan pengelolaan sampah. 
 
